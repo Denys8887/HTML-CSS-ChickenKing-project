@@ -1,3 +1,3 @@
 # HTML-CSS-ChickenKing-project
 
-Single page website using html css and bootstrap 
+Single page website using HTML CSS and Bootstrap 
