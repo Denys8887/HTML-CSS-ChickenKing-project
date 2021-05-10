@@ -5,11 +5,11 @@
 
 .textonimage {
     position: absolute;
-    width: 100%;
+    width: 80%;
     text-align: center;
     top: 40%;
     color: white;
-    font-size: 5vw;
+    font-size: 2vw;
 
 
 }
@@ -20,22 +20,22 @@
     text-align: center;
     color: white;
 }
-.item h3 {
+/*!*.item h3 {*!*/
 
-    font-size: 3vw;
-}
+/*!*    font-size: 3vw;*!*/
+/*}*/
 
 #toprow{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #ffa216;
-    /*padding-left: 80px;*/
+    padding-left: 80px;
 }
 
 #bottomtow {
     padding-bottom: 20px;
     background-color: #ffa216;
-    /*padding-left: 80px;*/
+    padding-left: 80px;
 }
 
 
